@@ -1,15 +1,8 @@
 <div align="center">
 
-```
- ███╗   ███╗███████╗███╗   ██╗███████╗ ██████╗  █████╗ ███████╗███████╗ ██████╗ 
- ████╗ ████║██╔════╝████╗  ██║██╔════╝██╔════╝ ██╔══██╗██╔════╝██╔════╝██╔═══██╗
- ██╔████╔██║█████╗  ██╔██╗ ██║█████╗  ██║  ███╗███████║███████╗███████╗██║   ██║
- ██║╚██╔╝██║██╔══╝  ██║╚██╗██║██╔══╝  ██║   ██║██╔══██║╚════██║╚════██║██║   ██║
- ██║ ╚═╝ ██║███████╗██║ ╚████║███████╗╚██████╔╝██║  ██║███████║███████║╚██████╔╝
- ╚═╝     ╚═╝╚══════╝╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝ 
-```
+<img src="banner.svg" alt="MENEGASSO" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=%3E+Database+%26+Backend+Developer_;%3E+Linux+Power+User_;%3E+English+C2+%2F+Japanese+WIP_;%3E+Always+learning+something+new..._;%3E+%5BSTATUS%3A+LOOKING+FOR+INTERNSHIP%5D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=%3E+João+Pedro+Menegasso_;%3E+Database+%26+Backend+Student_;%3E+Linux+Power+User_;%3E+%5BSTATUS%3A+LOOKING+FOR+INTERNSHIP%5D_)](https://git.io/typing-svg)
 
 ![](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00F5FF?style=for-the-badge&labelColor=0D0D0D)
 ![](https://img.shields.io/badge/LOCATION-SJC%2C_SP-FF00FF?style=for-the-badge&labelColor=0D0D0D)
@@ -20,8 +13,6 @@
 ---
 
 ```yaml
-# /usr/local/bin/menegasso --info
-
 name:     João Pedro Menegasso
 role:     Database & Backend Student
 location: São José dos Campos, SP — BR
@@ -69,13 +60,3 @@ linux:    Advanced user
 
 [![Gmail](https://img.shields.io/badge/menegasso00@gmail.com-FF00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:menegasso00@gmail.com)
 [![GitHub](https://img.shields.io/badge/github.com/menegasso0-00F5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/menegasso0)
-
----
-
-<div align="center">
-
-![](https://img.shields.io/badge/dynamic/json?color=00F5FF&label=Visitas&query=value&url=https://api.countapi.xyz/hit/menegasso0/visits&labelColor=0D0D0D&style=flat-square)
-
-*`> conexão encerrada.`*
-
-</div>
