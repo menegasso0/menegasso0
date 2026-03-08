@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=CCCCCC&center=true&vCenter=true&width=700&lines=%3E+João+Pedro+Menegasso_;%3E+Database+%26+Backend+Student_;%3E+Linux+Power+User_;%3E+English+C2+%2F+%E6%97%A5%E6%9C%AC%E8%AA%9E+%E5%8B%89%E5%BC%B7%E4%B8%AD_;%3E+%5BSTATUS%3A+LOOKING+FOR+INTERNSHIP%5D_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=CCCCCC&center=true&vCenter=true&width=700&lines=%3E+Database+%26+Backend+Student_;%3E+Linux+Power+User_;%3E+English+C2+%2F+%E6%97%A5%E6%9C%AC%E8%AA%9E+%E5%8B%89%E5%BC%B7%E4%B8%AD_;%3E+%5BSTATUS%3A+LOOKING+FOR+INTERNSHIP%5D_)](https://git.io/typing-svg)
 
 </div>
 
