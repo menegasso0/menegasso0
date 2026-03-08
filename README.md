@@ -15,7 +15,6 @@
 ---
 
 ```yaml
-name:     João Pedro Menegasso
 role:     Database & Backend Student
 location: São José dos Campos, SP — BR
 status:   Seeking internship opportunities
